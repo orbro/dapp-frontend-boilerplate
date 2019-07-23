@@ -1,0 +1,62 @@
+.dashboard {
+  overflow: hidden;
+}
+
+.Popover {
+  z-index: 1000;
+}
+
+.toast-transaction {
+  padding: 0;
+}
+
+.ps__rail-y {
+  left: unset !important;
+}
+
+.dropzone input:focus{
+  outline: none;
+}
+
+.comment h1 {
+  border-bottom: #f2f2f2 2px solid;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+.comment h2 {
+  font-size: 20px;
+  font-weight: 700;
+}
+.comment h3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+.comment h4 {
+  font-size: 14px;
+  font-weight: 700;
+}
+.comment h5 {
+  font-size: 12px;
+  font-weight: 700;
+}
+.comment h6 {
+  font-size: 10px;
+  font-weight: 700;
+}
+.comment p {
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.comment blockquote {
+  border-left: #8f8e8e 2px solid;
+  font-style: italic;
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+
+.MuiInput-underline-19:before {
+  border: none !important;
+}
